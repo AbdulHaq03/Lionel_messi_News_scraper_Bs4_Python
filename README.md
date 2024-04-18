@@ -22,7 +22,7 @@ pip install lxml
 # *For getting the date from Ap news I got only the format for the date so I extracted that as well all the steps are given in my ipynb*
 
 # **I have provided the Ips I got from a website named webshare.io**
-import requests
+`import requests
 requests.get(
     "https://ipv4.webshare.io/",
     proxies={
@@ -30,7 +30,7 @@ requests.get(
         "https": "http://tctsdtrb-rotate:ncht9e985h7x@p.webshare.io:80/"
     }
 ).text
-
+`
 # username is tctsdtrb and password is ncht9e985h7x for getting webshare ips
 
 # Columns scraped:
