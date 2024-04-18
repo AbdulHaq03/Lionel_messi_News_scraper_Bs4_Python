@@ -34,12 +34,12 @@ requests.get(
 # username is tctsdtrb and password is ncht9e985h7x for getting webshare ips
 
 # Columns scraped:
-URL (Link of news)
-Headline Of news
-Proxy Ip (proxy which I used)
-Publication Date
-Content (description of news)
-Image URL
+## URL (Link of news)
+## Headline Of news
+## Proxy Ip (proxy which I used)
+## Publication Date
+## Content (description of news)
+## Image URL
 
 # This code will give you the ips that I have I used these to get the list ready
 # I have already provided the ip list so no need to run this 
